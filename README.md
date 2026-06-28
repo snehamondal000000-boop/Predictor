@@ -1,4 +1,4 @@
- 🚀 Predictor Project
+ 🚀Predictor Project [predicts height and weight]
 
 A Machine Learning based prediction system built using Python for data analysis, model training, and accurate predictions.
 

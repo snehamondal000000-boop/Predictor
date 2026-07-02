@@ -8,7 +8,7 @@ A Machine Learning based prediction system built using Python for data analysis,
   NumPy
   Scikit-learn
 
- ✨ Features
+✨ Features
 Dual-Directional Prediction:** Predicts height based on weight, or weight based on height.
 Data Preprocessing:** Cleans and structures data for optimal model performance.
 Model Training:** Utilizes trained regression models (`.pkl` files) for quick inference.
